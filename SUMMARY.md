@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
 * [Videos](videos.md)
+* Fotos
 
